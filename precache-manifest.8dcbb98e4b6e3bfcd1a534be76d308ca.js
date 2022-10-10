@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "54ac75427151b183c628",
+    "revision": "aeee34e53f201dd4e115",
     "url": "/TekBitz/static/css/main.61d8e5f2.chunk.css"
   },
   {
-    "revision": "54ac75427151b183c628",
-    "url": "/TekBitz/static/js/main.54ac7542.chunk.js"
+    "revision": "aeee34e53f201dd4e115",
+    "url": "/TekBitz/static/js/main.aeee34e5.chunk.js"
   },
   {
     "revision": "66b43ad12173adf7b342",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/TekBitz/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/TekBitz/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/TekBitz/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/TekBitz/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/TekBitz/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "3d98566e45ab0cab3fa231ed8284e09f",
+    "revision": "70120c12ed3c55f4ac39fe0335fb2150",
     "url": "/TekBitz/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/TekBitz/static/css/main.61d8e5f2.chunk.css",
-  "main.js": "/TekBitz/static/js/main.54ac7542.chunk.js",
-  "main.js.map": "/TekBitz/static/js/main.54ac7542.chunk.js.map",
+  "main.js": "/TekBitz/static/js/main.aeee34e5.chunk.js",
+  "main.js.map": "/TekBitz/static/js/main.aeee34e5.chunk.js.map",
   "static/js/1.66b43ad1.chunk.js": "/TekBitz/static/js/1.66b43ad1.chunk.js",
   "static/js/1.66b43ad1.chunk.js.map": "/TekBitz/static/js/1.66b43ad1.chunk.js.map",
   "static/js/2.4b1cda7a.chunk.js": "/TekBitz/static/js/2.4b1cda7a.chunk.js",
@@ -18,6 +18,6 @@
   "static/css/4.e8005ffc.chunk.css.map": "/TekBitz/static/css/4.e8005ffc.chunk.css.map",
   "static/css/main.61d8e5f2.chunk.css.map": "/TekBitz/static/css/main.61d8e5f2.chunk.css.map",
   "index.html": "/TekBitz/index.html",
-  "precache-manifest.b781ce569a6b0b3a0f7d675e75bb952e.js": "/TekBitz/precache-manifest.b781ce569a6b0b3a0f7d675e75bb952e.js",
+  "precache-manifest.8dcbb98e4b6e3bfcd1a534be76d308ca.js": "/TekBitz/precache-manifest.8dcbb98e4b6e3bfcd1a534be76d308ca.js",
   "service-worker.js": "/TekBitz/service-worker.js"
 }
