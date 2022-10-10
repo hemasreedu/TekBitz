@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "54ac75427151b183c628",
+    "revision": "b992efeaed163c5dad6a",
     "url": "/TekBitz/static/css/main.61d8e5f2.chunk.css"
   },
   {
-    "revision": "54ac75427151b183c628",
-    "url": "/TekBitz/static/js/main.54ac7542.chunk.js"
+    "revision": "b992efeaed163c5dad6a",
+    "url": "/TekBitz/static/js/main.b992efea.chunk.js"
   },
   {
     "revision": "66b43ad12173adf7b342",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/TekBitz/static/js/3.e14b9c61.chunk.js"
   },
   {
-    "revision": "4fe8f3b8afa301c7653a",
+    "revision": "32fda3231781afca9b48",
     "url": "/TekBitz/static/css/4.e8005ffc.chunk.css"
   },
   {
-    "revision": "4fe8f3b8afa301c7653a",
-    "url": "/TekBitz/static/js/4.4fe8f3b8.chunk.js"
+    "revision": "32fda3231781afca9b48",
+    "url": "/TekBitz/static/js/4.32fda323.chunk.js"
   },
   {
     "revision": "ddcb7fd74aa0acd88541",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/TekBitz/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "3d98566e45ab0cab3fa231ed8284e09f",
+    "revision": "14fffaa1249c59880f9b7b0dceb22d55",
     "url": "/TekBitz/index.html"
   }
 ];
