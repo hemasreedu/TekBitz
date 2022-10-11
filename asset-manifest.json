@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TekBitz/static/css/main.e8fcdd29.css",
-    "main.js": "/TekBitz/static/js/main.1cdacf7f.js",
-    "static/js/166.d059bf22.chunk.js": "/TekBitz/static/js/166.d059bf22.chunk.js",
-    "static/js/117.4cc87735.chunk.js": "/TekBitz/static/js/117.4cc87735.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/TekBitz/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/TekBitz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TekBitz/index.html",
-    "main.e8fcdd29.css.map": "/TekBitz/static/css/main.e8fcdd29.css.map",
-    "main.1cdacf7f.js.map": "/TekBitz/static/js/main.1cdacf7f.js.map",
-    "166.d059bf22.chunk.js.map": "/TekBitz/static/js/166.d059bf22.chunk.js.map",
-    "117.4cc87735.chunk.js.map": "/TekBitz/static/js/117.4cc87735.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/TekBitz/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.e8fcdd29.css",
+    "main.js": "/static/js/main.5b023ab4.js",
+    "static/js/166.d059bf22.chunk.js": "/static/js/166.d059bf22.chunk.js",
+    "static/js/117.4cc87735.chunk.js": "/static/js/117.4cc87735.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e8fcdd29.css.map": "/static/css/main.e8fcdd29.css.map",
+    "main.5b023ab4.js.map": "/static/js/main.5b023ab4.js.map",
+    "166.d059bf22.chunk.js.map": "/static/js/166.d059bf22.chunk.js.map",
+    "117.4cc87735.chunk.js.map": "/static/js/117.4cc87735.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8fcdd29.css",
-    "static/js/main.1cdacf7f.js"
+    "static/js/main.5b023ab4.js"
   ]
 }
