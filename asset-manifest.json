@@ -14,10 +14,10 @@
   "runtime~main.js": "/TekBitz/static/js/runtime~main.ddcb7fd7.js",
   "runtime~main.js.map": "/TekBitz/static/js/runtime~main.ddcb7fd7.js.map",
   "static/media/logo.svg": "/TekBitz/static/media/logo.06e73328.svg",
-  "static/media/font-awesome.min.css": "/TekBitz/static/media/fontawesome-webfont.b06871f2.ttf",
+  "static/media/font-awesome.min.css": "/TekBitz/static/media/fontawesome-webfont.912ec66d.svg",
   "static/css/4.e8005ffc.chunk.css.map": "/TekBitz/static/css/4.e8005ffc.chunk.css.map",
   "static/css/main.61d8e5f2.chunk.css.map": "/TekBitz/static/css/main.61d8e5f2.chunk.css.map",
   "index.html": "/TekBitz/index.html",
-  "precache-manifest.20924e80bd55cb235a6dcc1e1ab5ff59.js": "/TekBitz/precache-manifest.20924e80bd55cb235a6dcc1e1ab5ff59.js",
+  "precache-manifest.fb05df36474e48777de261424bc91574.js": "/TekBitz/precache-manifest.fb05df36474e48777de261424bc91574.js",
   "service-worker.js": "/TekBitz/service-worker.js"
 }

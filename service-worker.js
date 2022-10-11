@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TekBitz/precache-manifest.20924e80bd55cb235a6dcc1e1ab5ff59.js"
+  "/TekBitz/precache-manifest.fb05df36474e48777de261424bc91574.js"
 );
 
 workbox.clientsClaim();
