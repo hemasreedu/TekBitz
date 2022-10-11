@@ -16,7 +16,7 @@ export default function Menu() {
     return (
         <>
             <header>
-                <a href="#" className="logo">TekBit</a>
+                <a href="#" className="logo">CRACKTEK</a>
                 
                 <nav className="navbar">
                     <ul className="links">
