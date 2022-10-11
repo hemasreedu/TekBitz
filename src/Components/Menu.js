@@ -24,10 +24,10 @@ export default function Menu() {
                             <Link to="/">Home</Link>
                         </li>
                         <li>
-                            <a href="#">Topics <i class='fas fa-angle-down'></i></a>
+                            <a href="#">Topics <i className='fas fa-angle-down'></i></a>
                             <ul>
                                 <li className="data" onClick={hidelinks}>
-                                    <Link to="Javascriptquestions">Javascript interview questions</Link>
+                                    <Link to="/Javascriptquestions">Javascript interview questions</Link>
                                 </li>
                                 <li className="data" onClick={hidelinks}>
                                     <Link to="/Reactquestions">React interview questions</Link>

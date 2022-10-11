@@ -6,32 +6,32 @@ import Menu from "./Components/Menu";
 //import Reactqstns from "./Components/Reactqstns";
 import Home from "./Components/Home";
 import Suspense from "react";
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 const LazyJSqstns = React.lazy(() => import("./Components/JSqstns"))
 const LazyReactqstns = React.lazy(() => import("./Components/Reactqstns"))
 
 export default function App() {
     return (
-      <BrowserRouter>
+        <HashRouter>
           <div className="App">
-              <Menu />
-              <Switch>
-                      <Route exact path="/">
-                          <Home />
-                      </Route>
-                    <Route path="/Javascriptquestions">
-                        <React.Suspense>
-                            <LazyJSqstns />
-                        </React.Suspense>
-                      </Route>
-                    <Route path="/Reactquestions">
-                        <React.Suspense>
-                            <LazyReactqstns />
-                        </React.Suspense>
-                      </Route>
-                  </Switch>
+                <Menu />
+                  <Switch>
+                    <Route exact path="/">
+                                  <Home />
+                              </Route>
+                            <Route path="/Javascriptquestions">
+                                <React.Suspense>
+                                    <LazyJSqstns />
+                                </React.Suspense>
+                              </Route>
+                            <Route path="/Reactquestions">  
+                                <React.Suspense>
+                                    <LazyReactqstns />
+                                </React.Suspense>
+                              </Route>
+                      </Switch>
                 </div>
-        </BrowserRouter>
+        </HashRouter>
   );
 }
 
