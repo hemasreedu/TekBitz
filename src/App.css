@@ -105,13 +105,13 @@ body {
     font-size: 0.875rem;
 }
 
-ul {
+/*ul {
     list-style-type: none;
-}
+}*/
 
-a {
+/*a {
     text-decoration: none;
-}
+}*/
 h1,
 h2,
 h3,
@@ -226,9 +226,9 @@ header .navbar ul li:hover > ul {
     left: 0;
     bottom: 0;
 }
-.sidebar nav ul{
+/*.sidebar nav ul{
     list-style-type: none;
-}
+}*/
 .sidebar nav ul li:hover {
     background-color: var(--clr-grey-9);
 }
